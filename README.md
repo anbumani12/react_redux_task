@@ -1,0 +1,1 @@
+I have completed the task for React Redux Task, and I uploaded the front-end source code and the front-end deployed URL.
